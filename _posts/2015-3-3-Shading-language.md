@@ -13,11 +13,11 @@ comments: true
 
 **片元着色器中的内建变量分为输入变量及输出变量**
 
-###内建输入变量（只读）###
+###1.内建输入变量（只读）###
 
 - gl_FragCoord
 - gl_FrontFacing
 
-###内建输出变量###
+###2.内建输出变量###
 - gl_FragColor
 - gl_FragData
