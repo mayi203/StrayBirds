@@ -27,7 +27,7 @@ StrayBirds
 
 1. 在项目的 Setting 中将 Repository name 从 StrayBirds 修改为 blog
 2. 将 `_config.yml` 中的 baseurl 修改为 /blog
-3. 通过 http://minixbeta.github.io/blog/ 来访问你的新博客
+3. 通过 http://mayi203.github.io/blog/ 来访问你的新博客
 
 ![create_post](/images/change_project_name.gif)
 
